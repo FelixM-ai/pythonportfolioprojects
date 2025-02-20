@@ -188,3 +188,7 @@ R and Dplyr are still relevant, especially in statistics-heavy roles.
 Aspiring data analysts should focus on Python, SQL, and Tableau for a strong foundation.
 Learning cloud computing, AI frameworks, and DevOps tools can significantly increase earning potential.
 Excel and Power BI remain crucial but should be complemented with advanced analytics and automation skills.
+## Conclusion
+From the analysis, we observed that SQL and Python remain the most sought-after skills across all data roles, while Excel, Tableau, and Power BI are particularly valuable for data analysts. Additionally, the increasing demand for cloud computing skills (AWS, Azure, Spark) signifies a shift toward data engineering and scalable solutions.
+
+These insights provide actionable recommendations for aspiring and experienced data professionals looking to align their skills with industry demands. Future work can include predictive modeling and broader geographic analysis to enhance these findings further.
